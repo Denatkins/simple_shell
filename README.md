@@ -1,4 +1,4 @@
-The main aim of the project is to know how team colaborate or work and to understand the basic concept of printf.
+The main aim of the project is to know how team colaborate or work and to understand the basic concept of simple_shell.
 
 
 
