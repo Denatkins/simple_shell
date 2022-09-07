@@ -161,7 +161,7 @@ return (s);
  *
  * Return: void
  */
-void sigintHandler(_attribute_((unused))int sig_num)
+void sigintHandler(__attribute__((unused))int sig_num)
 {
 _puts("\n");
 _puts("$ ");
